@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4236da4d-bbb1-4fee-b411-c40f1e914c23" name="Default" comment="" />
+    <list default="true" id="4236da4d-bbb1-4fee-b411-c40f1e914c23" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +18,17 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="MockData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2530">
-              <caret line="126" column="12" lean-forward="false" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="238">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,87 +36,8 @@
       <file leaf-file-name="UserVisitSessionAnalyzeSpark.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="1091" column="0" lean-forward="false" selection-start-line="1091" selection-start-column="0" selection-end-line="1091" selection-end-column="0" />
-              <folding>
-                <element signature="e#2971#2998#0" expanded="true" />
-                <element signature="e#11888#12353#0" expanded="true" />
-                <element signature="e#12154#12175#0" expanded="true" />
-                <element signature="e#12352#12353#0" expanded="true" />
-                <element signature="e#12943#16525#0" expanded="true" />
-                <element signature="e#16524#16525#0" expanded="true" />
-                <element signature="e#16746#16992#0" expanded="true" />
-                <element signature="e#16991#16992#0" expanded="true" />
-                <element signature="e#17465#18470#0" expanded="true" />
-                <element signature="e#18469#18470#0" expanded="true" />
-                <element signature="e#34692#35020#0" expanded="true" />
-                <element signature="e#35019#35020#0" expanded="true" />
-                <element signature="e#35487#36019#0" expanded="true" />
-                <element signature="e#36018#36019#0" expanded="true" />
-                <element signature="e#36710#36737#0" expanded="true" />
-                <element signature="e#37664#37700#0" expanded="true" />
-                <element signature="e#39463#39493#0" expanded="true" />
-                <element signature="e#39811#39828#0" expanded="true" />
-                <element signature="e#41139#43385#0" expanded="true" />
-                <element signature="e#41488#41512#0" expanded="true" />
-                <element signature="e#43384#43385#0" expanded="true" />
-                <element signature="e#44770#46191#0" expanded="true" />
-                <element signature="e#45076#45091#0" expanded="true" />
-                <element signature="e#46190#46191#0" expanded="true" />
-                <element signature="e#52043#53307#0" expanded="true" />
-                <element signature="e#52358#52378#0" expanded="true" />
-                <element signature="e#53306#53307#0" expanded="true" />
-                <element signature="e#54722#55596#0" expanded="true" />
-                <element signature="e#55595#55596#0" expanded="true" />
-                <element signature="e#57376#57665#0" expanded="true" />
-                <element signature="e#57664#57665#0" expanded="true" />
-                <element signature="e#58028#58367#0" expanded="true" />
-                <element signature="e#58366#58367#0" expanded="true" />
-                <element signature="e#58550#58756#0" expanded="true" />
-                <element signature="e#58755#58756#0" expanded="true" />
-                <element signature="e#61281#61571#0" expanded="true" />
-                <element signature="e#61570#61571#0" expanded="true" />
-                <element signature="e#61663#62323#0" expanded="true" />
-                <element signature="e#62100#62120#0" expanded="true" />
-                <element signature="e#62322#62323#0" expanded="true" />
-                <element signature="e#62423#62629#0" expanded="true" />
-                <element signature="e#62628#62629#0" expanded="true" />
-                <element signature="e#62944#63235#0" expanded="true" />
-                <element signature="e#63234#63235#0" expanded="true" />
-                <element signature="e#63323#63972#0" expanded="true" />
-                <element signature="e#63755#63775#0" expanded="true" />
-                <element signature="e#63971#63972#0" expanded="true" />
-                <element signature="e#64068#64274#0" expanded="true" />
-                <element signature="e#64273#64274#0" expanded="true" />
-                <element signature="e#65055#65741#0" expanded="true" />
-                <element signature="e#65740#65741#0" expanded="true" />
-                <element signature="e#65831#66506#0" expanded="true" />
-                <element signature="e#66505#66506#0" expanded="true" />
-                <element signature="e#66594#67261#0" expanded="true" />
-                <element signature="e#67260#67261#0" expanded="true" />
-                <element signature="e#67677#67697#0" expanded="true" />
-                <element signature="e#68332#69652#0" expanded="true" />
-                <element signature="e#68733#68745#0" expanded="true" />
-                <element signature="e#69267#69289#0" expanded="true" />
-                <element signature="e#69651#69652#0" expanded="true" />
-                <element signature="e#69823#70157#0" expanded="true" />
-                <element signature="e#70156#70157#0" expanded="true" />
-                <element signature="e#70435#72624#0" expanded="true" />
-                <element signature="e#71813#71837#0" expanded="true" />
-                <element signature="e#72623#72624#0" expanded="true" />
-                <element signature="e#72820#73886#0" expanded="true" />
-                <element signature="e#73885#73886#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaseWhenTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/CaseWhenTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="293">
+              <caret line="1072" column="8" selection-start-line="1072" selection-start-column="8" selection-end-line="1072" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -135,10 +57,8 @@
       <find>calculateAndPersistAggrStat</find>
     </findStrings>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,6 +66,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/JavaBeanAccumulator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test" />
       </list>
     </option>
   </component>
@@ -159,7 +80,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -167,24 +87,17 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="457" />
-    <option name="y" value="-22" />
-    <option name="width" value="1382" />
-    <option name="height" value="867" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="236" />
+    <option name="y" value="99" />
+    <option name="width" value="1342" />
+    <option name="height" value="360" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -275,45 +188,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spark-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark-project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkproject" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -329,67 +221,34 @@
   </component>
   <component name="RunManager" selected="Application.UserVisitSessionAnalyzeSpark">
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
     </configuration>
     <configuration name="MockRealTimeData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="com.ibeifeng.sparkproject.test.MockRealTimeData" />
+      <module name="spark-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ibeifeng.sparkproject.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ibeifeng.sparkproject.test.MockRealTimeData" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spark-project" />
-      <envs />
     </configuration>
     <configuration name="UserVisitSessionAnalyzeSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="com.ibeifeng.sparkproject.spark.session.UserVisitSessionAnalyzeSpark" />
+      <module name="spark-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ibeifeng.sparkproject.spark.session.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ibeifeng.sparkproject.spark.session.UserVisitSessionAnalyzeSpark" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spark-project" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -399,24 +258,13 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -429,47 +277,32 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.MockRealTimeData" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+    <list>
+      <item itemvalue="Application.MockRealTimeData" />
+      <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.UserVisitSessionAnalyzeSpark" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MockRealTimeData" />
+      <list>
+        <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+        <item itemvalue="Application.MockRealTimeData" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../good/good/new/amadou-master" value="PREVIEW" />
       </map>
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -484,44 +317,54 @@
       <workItem from="1538631933829" duration="2910000" />
       <workItem from="1538792802706" duration="4979000" />
       <workItem from="1538802934403" duration="4914000" />
+      <workItem from="1560227521664" duration="2021000" />
     </task>
+    <task id="LOCAL-00001" summary="chenhaiquan first test">
+      <created>1560227827870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560227827870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12803000" />
+    <option name="totallyTimeSpent" value="14824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="57" y="24" width="1863" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3198324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12982005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5002746" side_tool="true" weight="0.3294979" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3198324" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49972543" visible="true" weight="0.3294979" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25315762" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,24 +373,48 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chenhaiquan first test" />
+    <option name="LAST_COMMIT_MESSAGE" value="chenhaiquan first test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2090">
+          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/CaseWhenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20729">
+          <caret line="1091" selection-start-line="1091" selection-end-line="1091" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2898">
           <caret line="126" column="12" lean-forward="true" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -555,115 +422,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24587">
           <caret line="1069" column="8" lean-forward="true" selection-start-line="1069" selection-start-column="8" selection-end-line="1069" selection-end-column="8" />
-          <folding>
-            <element signature="e#2971#2998#0" expanded="true" />
-            <element signature="e#11888#12353#0" expanded="true" />
-            <element signature="e#12154#12175#0" expanded="true" />
-            <element signature="e#12352#12353#0" expanded="true" />
-            <element signature="e#12943#16525#0" expanded="true" />
-            <element signature="e#16524#16525#0" expanded="true" />
-            <element signature="e#16746#16992#0" expanded="true" />
-            <element signature="e#16991#16992#0" expanded="true" />
-            <element signature="e#17465#18470#0" expanded="true" />
-            <element signature="e#18469#18470#0" expanded="true" />
-            <element signature="e#34692#35020#0" expanded="true" />
-            <element signature="e#35019#35020#0" expanded="true" />
-            <element signature="e#35487#36019#0" expanded="true" />
-            <element signature="e#36018#36019#0" expanded="true" />
-            <element signature="e#36710#36737#0" expanded="true" />
-            <element signature="e#37664#37700#0" expanded="true" />
-            <element signature="e#39463#39493#0" expanded="true" />
-            <element signature="e#39811#39828#0" expanded="true" />
-            <element signature="e#41139#43385#0" expanded="true" />
-            <element signature="e#41488#41512#0" expanded="true" />
-            <element signature="e#43384#43385#0" expanded="true" />
-            <element signature="e#44770#46191#0" expanded="true" />
-            <element signature="e#45076#45091#0" expanded="true" />
-            <element signature="e#46190#46191#0" expanded="true" />
-            <element signature="e#52043#53307#0" expanded="true" />
-            <element signature="e#52358#52378#0" expanded="true" />
-            <element signature="e#53306#53307#0" expanded="true" />
-            <element signature="e#54722#55596#0" expanded="true" />
-            <element signature="e#55595#55596#0" expanded="true" />
-            <element signature="e#57376#57665#0" expanded="true" />
-            <element signature="e#57664#57665#0" expanded="true" />
-            <element signature="e#58028#58367#0" expanded="true" />
-            <element signature="e#58366#58367#0" expanded="true" />
-            <element signature="e#58550#58756#0" expanded="true" />
-            <element signature="e#58755#58756#0" expanded="true" />
-            <element signature="e#61281#61571#0" expanded="true" />
-            <element signature="e#61570#61571#0" expanded="true" />
-            <element signature="e#61663#62323#0" expanded="true" />
-            <element signature="e#62100#62120#0" expanded="true" />
-            <element signature="e#62322#62323#0" expanded="true" />
-            <element signature="e#62423#62629#0" expanded="true" />
-            <element signature="e#62628#62629#0" expanded="true" />
-            <element signature="e#62944#63235#0" expanded="true" />
-            <element signature="e#63234#63235#0" expanded="true" />
-            <element signature="e#63323#63972#0" expanded="true" />
-            <element signature="e#63755#63775#0" expanded="true" />
-            <element signature="e#63971#63972#0" expanded="true" />
-            <element signature="e#64068#64274#0" expanded="true" />
-            <element signature="e#64273#64274#0" expanded="true" />
-            <element signature="e#65055#65741#0" expanded="true" />
-            <element signature="e#65740#65741#0" expanded="true" />
-            <element signature="e#65831#66506#0" expanded="true" />
-            <element signature="e#66505#66506#0" expanded="true" />
-            <element signature="e#66594#67261#0" expanded="true" />
-            <element signature="e#67260#67261#0" expanded="true" />
-            <element signature="e#67677#67697#0" expanded="true" />
-            <element signature="e#68332#69652#0" expanded="true" />
-            <element signature="e#68733#68745#0" expanded="true" />
-            <element signature="e#69267#69289#0" expanded="true" />
-            <element signature="e#69651#69652#0" expanded="true" />
-            <element signature="e#69823#70157#0" expanded="true" />
-            <element signature="e#70156#70157#0" expanded="true" />
-            <element signature="e#70435#72624#0" expanded="true" />
-            <element signature="e#71813#71837#0" expanded="true" />
-            <element signature="e#72623#72624#0" expanded="true" />
-            <element signature="e#72820#73886#0" expanded="true" />
-            <element signature="e#73885#73886#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/SessionAggrStatAccumulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="67" />
-          <folding />
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/CaseWhenTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4025">
-          <caret line="175" column="39" lean-forward="false" selection-start-line="175" selection-start-column="39" selection-end-line="175" selection-end-column="39" />
-          <folding />
+          <caret line="175" column="39" selection-start-line="175" selection-start-column="39" selection-end-line="175" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockRealTimeData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -671,90 +463,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34454">
           <caret line="1498" column="7" lean-forward="true" selection-start-line="1498" selection-start-column="7" selection-end-line="1498" selection-end-column="7" />
-          <folding>
-            <element signature="e#2971#2998#0" expanded="true" />
-            <element signature="e#11888#12353#0" expanded="true" />
-            <element signature="e#12154#12175#0" expanded="true" />
-            <element signature="e#12352#12353#0" expanded="true" />
-            <element signature="e#12943#16525#0" expanded="true" />
-            <element signature="e#16524#16525#0" expanded="true" />
-            <element signature="e#16746#16992#0" expanded="true" />
-            <element signature="e#16991#16992#0" expanded="true" />
-            <element signature="e#17465#18470#0" expanded="true" />
-            <element signature="e#18469#18470#0" expanded="true" />
-            <element signature="e#34692#35020#0" expanded="true" />
-            <element signature="e#35019#35020#0" expanded="true" />
-            <element signature="e#35487#36019#0" expanded="true" />
-            <element signature="e#36018#36019#0" expanded="true" />
-            <element signature="e#36710#36737#0" expanded="true" />
-            <element signature="e#37664#37700#0" expanded="true" />
-            <element signature="e#39463#39493#0" expanded="true" />
-            <element signature="e#39811#39828#0" expanded="true" />
-            <element signature="e#41139#43385#0" expanded="true" />
-            <element signature="e#41488#41512#0" expanded="true" />
-            <element signature="e#43384#43385#0" expanded="true" />
-            <element signature="e#44770#46191#0" expanded="true" />
-            <element signature="e#45076#45091#0" expanded="true" />
-            <element signature="e#46190#46191#0" expanded="true" />
-            <element signature="e#52043#53307#0" expanded="true" />
-            <element signature="e#52358#52378#0" expanded="true" />
-            <element signature="e#53306#53307#0" expanded="true" />
-            <element signature="e#54722#55596#0" expanded="true" />
-            <element signature="e#55595#55596#0" expanded="true" />
-            <element signature="e#57376#57665#0" expanded="true" />
-            <element signature="e#57664#57665#0" expanded="true" />
-            <element signature="e#58028#58367#0" expanded="true" />
-            <element signature="e#58366#58367#0" expanded="true" />
-            <element signature="e#58550#58756#0" expanded="true" />
-            <element signature="e#58755#58756#0" expanded="true" />
-            <element signature="e#61281#61571#0" expanded="true" />
-            <element signature="e#61570#61571#0" expanded="true" />
-            <element signature="e#61663#62323#0" expanded="true" />
-            <element signature="e#62100#62120#0" expanded="true" />
-            <element signature="e#62322#62323#0" expanded="true" />
-            <element signature="e#62423#62629#0" expanded="true" />
-            <element signature="e#62628#62629#0" expanded="true" />
-            <element signature="e#62944#63235#0" expanded="true" />
-            <element signature="e#63234#63235#0" expanded="true" />
-            <element signature="e#63323#63972#0" expanded="true" />
-            <element signature="e#63755#63775#0" expanded="true" />
-            <element signature="e#63971#63972#0" expanded="true" />
-            <element signature="e#64068#64274#0" expanded="true" />
-            <element signature="e#64273#64274#0" expanded="true" />
-            <element signature="e#65055#65741#0" expanded="true" />
-            <element signature="e#65740#65741#0" expanded="true" />
-            <element signature="e#65831#66506#0" expanded="true" />
-            <element signature="e#66505#66506#0" expanded="true" />
-            <element signature="e#66594#67261#0" expanded="true" />
-            <element signature="e#67260#67261#0" expanded="true" />
-            <element signature="e#67677#67697#0" expanded="true" />
-            <element signature="e#68332#69652#0" expanded="true" />
-            <element signature="e#68733#68745#0" expanded="true" />
-            <element signature="e#69267#69289#0" expanded="true" />
-            <element signature="e#69651#69652#0" expanded="true" />
-            <element signature="e#69823#70157#0" expanded="true" />
-            <element signature="e#70156#70157#0" expanded="true" />
-            <element signature="e#70435#72624#0" expanded="true" />
-            <element signature="e#71813#71837#0" expanded="true" />
-            <element signature="e#72623#72624#0" expanded="true" />
-            <element signature="e#72820#73886#0" expanded="true" />
-            <element signature="e#73885#73886#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.10/1.5.1/spark-catalyst_2.10-1.5.1.jar!/org/apache/spark/sql/RowFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -762,21 +480,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-279">
           <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/util/ParamUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -790,14 +507,14 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.1/spark-core_2.10-1.5.1.jar!/org/apache/spark/api/java/JavaPairRDD.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.1/spark-core_2.10-1.5.1-sources.jar!/org/apache/spark/api/java/JavaRDDLike.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="114" column="6" lean-forward="false" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+          <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -805,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,72 +529,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockRealTimeData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2530">
-          <caret line="126" column="12" lean-forward="false" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/CaseWhenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/util/ValidUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding />
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.1/spark-core_2.10-1.5.1-sources.jar!/org/apache/spark/api/java/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.7.0_80/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="881" column="16" lean-forward="false" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
-          <folding>
-            <element signature="e#37656#37657#0" expanded="false" />
-            <element signature="e#37692#37693#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java/jdk1.7.0_80/src.zip!/java/util/Date.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/constant/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="57" column="11" lean-forward="false" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
-          <folding />
+          <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.1/spark-core_2.10-1.5.1-sources.jar!/org/apache/spark/Accumulators.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -887,127 +566,84 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/SessionAggrStatAccumulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/util/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
-          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
-          <folding />
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/util/NumberUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/dao/ISessionAggrStatDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/dao/impl/SessionAggrStatDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-231">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/dao/factory/DAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
-            <element signature="e#1817#1818#0" expanded="false" />
-            <element signature="e#1859#1860#0" expanded="false" />
+            <element signature="e#1817#1818#0" />
+            <element signature="e#1859#1860#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/CaseWhenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/test/MockRealTimeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ibeifeng/sparkproject/spark/session/UserVisitSessionAnalyzeSpark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="1091" column="0" lean-forward="false" selection-start-line="1091" selection-start-column="0" selection-end-line="1091" selection-end-column="0" />
-          <folding>
-            <element signature="e#2971#2998#0" expanded="true" />
-            <element signature="e#11888#12353#0" expanded="true" />
-            <element signature="e#12154#12175#0" expanded="true" />
-            <element signature="e#12352#12353#0" expanded="true" />
-            <element signature="e#12943#16525#0" expanded="true" />
-            <element signature="e#16524#16525#0" expanded="true" />
-            <element signature="e#16746#16992#0" expanded="true" />
-            <element signature="e#16991#16992#0" expanded="true" />
-            <element signature="e#17465#18470#0" expanded="true" />
-            <element signature="e#18469#18470#0" expanded="true" />
-            <element signature="e#34692#35020#0" expanded="true" />
-            <element signature="e#35019#35020#0" expanded="true" />
-            <element signature="e#35487#36019#0" expanded="true" />
-            <element signature="e#36018#36019#0" expanded="true" />
-            <element signature="e#36710#36737#0" expanded="true" />
-            <element signature="e#37664#37700#0" expanded="true" />
-            <element signature="e#39463#39493#0" expanded="true" />
-            <element signature="e#39811#39828#0" expanded="true" />
-            <element signature="e#41139#43385#0" expanded="true" />
-            <element signature="e#41488#41512#0" expanded="true" />
-            <element signature="e#43384#43385#0" expanded="true" />
-            <element signature="e#44770#46191#0" expanded="true" />
-            <element signature="e#45076#45091#0" expanded="true" />
-            <element signature="e#46190#46191#0" expanded="true" />
-            <element signature="e#52043#53307#0" expanded="true" />
-            <element signature="e#52358#52378#0" expanded="true" />
-            <element signature="e#53306#53307#0" expanded="true" />
-            <element signature="e#54722#55596#0" expanded="true" />
-            <element signature="e#55595#55596#0" expanded="true" />
-            <element signature="e#57376#57665#0" expanded="true" />
-            <element signature="e#57664#57665#0" expanded="true" />
-            <element signature="e#58028#58367#0" expanded="true" />
-            <element signature="e#58366#58367#0" expanded="true" />
-            <element signature="e#58550#58756#0" expanded="true" />
-            <element signature="e#58755#58756#0" expanded="true" />
-            <element signature="e#61281#61571#0" expanded="true" />
-            <element signature="e#61570#61571#0" expanded="true" />
-            <element signature="e#61663#62323#0" expanded="true" />
-            <element signature="e#62100#62120#0" expanded="true" />
-            <element signature="e#62322#62323#0" expanded="true" />
-            <element signature="e#62423#62629#0" expanded="true" />
-            <element signature="e#62628#62629#0" expanded="true" />
-            <element signature="e#62944#63235#0" expanded="true" />
-            <element signature="e#63234#63235#0" expanded="true" />
-            <element signature="e#63323#63972#0" expanded="true" />
-            <element signature="e#63755#63775#0" expanded="true" />
-            <element signature="e#63971#63972#0" expanded="true" />
-            <element signature="e#64068#64274#0" expanded="true" />
-            <element signature="e#64273#64274#0" expanded="true" />
-            <element signature="e#65055#65741#0" expanded="true" />
-            <element signature="e#65740#65741#0" expanded="true" />
-            <element signature="e#65831#66506#0" expanded="true" />
-            <element signature="e#66505#66506#0" expanded="true" />
-            <element signature="e#66594#67261#0" expanded="true" />
-            <element signature="e#67260#67261#0" expanded="true" />
-            <element signature="e#67677#67697#0" expanded="true" />
-            <element signature="e#68332#69652#0" expanded="true" />
-            <element signature="e#68733#68745#0" expanded="true" />
-            <element signature="e#69267#69289#0" expanded="true" />
-            <element signature="e#69651#69652#0" expanded="true" />
-            <element signature="e#69823#70157#0" expanded="true" />
-            <element signature="e#70156#70157#0" expanded="true" />
-            <element signature="e#70435#72624#0" expanded="true" />
-            <element signature="e#71813#71837#0" expanded="true" />
-            <element signature="e#72623#72624#0" expanded="true" />
-            <element signature="e#72820#73886#0" expanded="true" />
-            <element signature="e#73885#73886#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="293">
+          <caret line="1072" column="8" selection-start-line="1072" selection-start-column="8" selection-end-line="1072" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1052,7 +688,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
